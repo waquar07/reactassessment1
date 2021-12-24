@@ -1,0 +1,51 @@
+.Head{
+    color: rgb(11 73 11);
+    text-align: center;
+    text-shadow: 2px 3px cyan;
+}
+
+.functioncomponent{
+    height: 260px;
+    width: 450px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: rgb(93, 218, 218);
+    text-align: center;
+    position: absolute;
+    top: 303px;
+    left: 165px;
+}
+
+.ClassComponent{
+    height: 260px;
+    width: 450px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: rgb(94, 219, 219);
+    text-align: center; 
+    position: absolute;
+    left: 950px; 
+    top: 303px;
+}
+
+.paragraph{
+    color: violet;
+}
+
+.class-button{
+    border-radius: 30px;
+    border: 1px solid black;
+    background-color: blue;
+    height: 70px;
+    width: 300px;
+    margin-left: 200px;
+
+}
+
+.function-button{
+    border-radius: 30px;
+    border: 1px solid black;
+    background-color: blue;
+    height: 70px;
+    width: 300px;
+}
